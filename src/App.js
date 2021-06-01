@@ -7,7 +7,7 @@ import { useState } from 'react';
 
 function App() {
 
-  const [skills, setSkills] = useState("Hi!")
+  const [skills, setSkills] = useState("Hello!")
 
   const myName = () =>{
     setSkills("my name is ilyanna")
